@@ -1,2 +1,2 @@
-# webdesign4everbody
- coursera study on front end development
+# Web Design for Everybody
+ coursera course study on front end development
