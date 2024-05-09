@@ -1,0 +1,36 @@
+body {
+  font-size: 12px;
+  font-family: 'Helvetica';
+}
+
+header {
+  background-color: #F6EEE0;
+}
+
+nav {
+  background-color: #F9F1F0;
+}
+
+main {
+  background-color: #EAFBFF;
+  font-size: 15px;
+}
+
+footer {
+  background-color: #D3D3D3;
+}
+
+li {
+  display: inline-block;
+  width: 200px;
+}
+
+h1 {
+  font-family: 'verdana';
+  font-size: 24px;
+  text-align: center;
+}
+
+p {
+  line-height: 20px;
+}
